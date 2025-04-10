@@ -23,11 +23,11 @@ Project Idea:
 
 - Reimplement the MOLI model to classify cancer types or predict survival.
 
-- Use SHAP or Integrated Gradients for feature-level explanation (e.g., which genes mattered most).
+- Use SHAP or Integrated Gradients for feature-level explanation.
 
-Add a small dashboard to let users explore per-sample interpretability.
+<!-- Add a small dashboard to let users explore per-sample interpretability. -->
 
-🔧 Tools: Python, PyTorch or TensorFlow, SHAP, mixOmics, TCGA datasets (via UCSC Xena or GDC)
+🔧 Tools: Python,TensorFlow, SHAP, mixOmics, TCGA datasets (via UCSC Xena or GDC)
 
 
 ## 🧠 AIPau 2024 - Topic: Regconition and Classification Tables from PDF 
