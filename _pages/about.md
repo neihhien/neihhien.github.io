@@ -15,6 +15,10 @@ redirect_from:
 
 # Selected Experience
 
+
+
+# Professional Experience
+
 ## 💼 Apprentice in Data Science at Pierre Fabre Dermo-Cosmetics 
 
-As part of my training, I completed a 2.5-year apprenticeship in Data Science at Pierre Fabre Dermo-Cosmetics. This experience was incredibly enriching, providing me with numerous opportunities to learn and grow. In the final 6 months, I worked on the **OptiSen Project** 🔬, focusing on the prediction of consumer preferences and the sensory profiles of facial care products based on their formulations. Through this project, I applied cutting-edge methods, such as ***preditive models***, ***explainable AI*** techniques, and developed practical tools to support product formulation.
+As part of my training, I completed a 2.5-year apprenticeship in Data Science at Pierre Fabre Dermo-Cosmetics. This experience was incredibly enriching, providing me with numerous opportunities to learn and grow. In the final 6 months, I worked on the **OptiSen Project** 🔬, focusing on the prediction of consumer preferences and the sensory profiles of facial care products based on their formulations. Through this project, I applied cutting-edge methods, such as ***preditive models***, ***explainable AI*** techniques, and developed practical tools to support product formulation. The project is an inovation for the formulation  by combining model interpretion and correlation analysis to 
