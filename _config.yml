@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "profile.jpg"
   name             : "Thanh Hien"
-  pronouns         : "she/her" # example: "she/her"  
+  # pronouns         : "she/her" # example: "she/her"  
   bio              : "Curious by nature, always eager to learn and explore new ideas."
   location         : "France"
   employer         : "Earth"
