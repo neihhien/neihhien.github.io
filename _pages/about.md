@@ -14,6 +14,21 @@ redirect_from:
 📚 I'm currently seeking a thesis opportunity to pursue a doctorate.
 
 # Selected Experience
+## 📜 Reimplementing and Reproducing Papers (Ongoing)
+
+🧬 Multimodal AI in Bioinformatics (Multi-Omics + Clinical)
+Paper: MOLI: Multi-omics Late Integration with Deep Neural Networks
+Dataset: TCGA (The Cancer Genome Atlas) – gene expression + methylation + CNV + clinical data
+Project Idea:
+
+- Reimplement the MOLI model to classify cancer types or predict survival.
+
+- Use SHAP or Integrated Gradients for feature-level explanation (e.g., which genes mattered most).
+
+Add a small dashboard to let users explore per-sample interpretability.
+
+🔧 Tools: Python, PyTorch or TensorFlow, SHAP, mixOmics, TCGA datasets (via UCSC Xena or GDC)
+
 
 ## 🧠 AIPau 2024 - Topic: Regconition and Classification Tables from PDF 
 

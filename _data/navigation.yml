@@ -10,7 +10,7 @@
 main:
     
   - title: "CV"
-    url: /cv/
+    url: /files/cv_Hien_Nguyen_2025.pdf #/cv/
 
   - title: "Portfolio"
     url: /portfolio/
