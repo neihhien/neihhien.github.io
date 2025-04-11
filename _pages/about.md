@@ -18,7 +18,7 @@ redirect_from:
 
 🧬 Multimodal AI in Bioinformatics (Multi-Omics + Clinical)
 Paper: MOLI: Multi-omics Late Integration with Deep Neural Networks
-Dataset: TCGA (The Cancer Genome Atlas) – gene expression + methylation + CNV + clinical data
+Dataset: TCGA (The Cancer Genome Atlas) – gene expression + clinical data
 Project Idea:
 
 - Reimplement the MOLI model to classify cancer types or predict survival.
@@ -27,7 +27,7 @@ Project Idea:
 
 <!-- Add a small dashboard to let users explore per-sample interpretability. -->
 
-🔧 Tools: Python,TensorFlow, SHAP, mixOmics, TCGA datasets (via UCSC Xena or GDC)
+🔧 Tools: Python,TensorFlow, SHAP, mixOmics, TCGA datasets (via UCSC Xena)
 
 
 ## 🧠 AIPau 2024 - Topic: Regconition and Classification Tables from PDF 
