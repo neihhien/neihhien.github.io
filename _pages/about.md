@@ -16,9 +16,14 @@ redirect_from:
 # Selected Experience
 ## 📜 Reimplementing and Reproducing Papers (Ongoing)
 
+Interested by multimodal combining with the great curiousity about the application of multi-omics, I've started to conduct the project:
+
 🧬 Multimodal AI in Bioinformatics (Multi-Omics + Clinical)
+
 Paper: MOLI: Multi-omics Late Integration with Deep Neural Networks
+
 Dataset: TCGA (The Cancer Genome Atlas) – gene expression + clinical data
+
 Project Idea:
 
 - Reimplement the MOLI model to classify cancer types or predict survival.
