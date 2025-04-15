@@ -39,8 +39,8 @@ Project Idea:
 
 With my teammates from INSA, we participated in the contest AIPau. The topic chosen was an interesting problem that we can apply our skills combining:
 - 🖼️ **Image Extraction** with **YOLOv5**
-- 📝 **Text Extration** with **Transformer** 
-- 🤖 **Text Classification** with **ML Model**
+- 📝 **Text Extration** with **TesseractOCR** 
+- 🤖 **Text Classification** with **ML Model, Transformer (DistilBertForSequenceClassification)**
 
 Two intensive weekend days were incredibly rewarding. Even that we didn't reach the final (we placed **2nd in our topic**), we learned many things - not only how to 🔍 tackle on the real problem from scratch but also how to manage the different tasks and team work 🤝.
 
