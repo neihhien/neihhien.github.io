@@ -14,8 +14,7 @@ redirect_from:
 📚 I'm currently seeking a thesis opportunity to pursue a doctorate.
 
 # Selected Experience
-<!---
-## 📜 Reimplementing and Reproducing Papers (Ongoing)
+<!--## 📜 Reimplementing and Reproducing Papers (Ongoing)
 
 Interested by multimodal combining with the great curiousity about the application of multi-omics, I've started to conduct the project:
 
@@ -32,7 +31,7 @@ Project Idea:
 - Use SHAP or Integrated Gradients for feature-level explanation.
 
 🔧 Tools: Python,TensorFlow, SHAP, mixOmics, TCGA datasets (via UCSC Xena)
----!>
+-->
 
 ## 🧠 AIPau 2024 - Topic: Regconition and Classification Tables from PDF 
 
