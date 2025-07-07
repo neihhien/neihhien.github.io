@@ -13,6 +13,24 @@ redirect_from:
 
 📚 I'm currently seeking a thesis opportunity to pursue a doctorate.
 
+# Professional Experience
+
+## 💼 Apprentice in Data Science at Pierre Fabre Dermo-Cosmetics 
+
+As part of my training, I completed a 2.5-year apprenticeship in Data Science at Pierre Fabre Dermo-Cosmetics. This experience was incredibly enriching, offering continuous opportunities to grow both technically and professionally.
+
+During the final 6 months, I led work on the OptiSen Project 🔬 — focusing on the prediction of consumer preferences and sensory profiles of facial care products based on their chemical formulations.
+
+In this project, I applied:
+
+📈 **Predictive modeling** to map formulations to sensory profile and user appreciation
+
+🧠 **Explainable AI techniques** (e.g., SHAP, LIME) for interpretability
+
+🖥️ **User interface development** to support R&D teams in creating optimized formulations with better sensorial outcomes
+
+This project helped bridge data science and product innovation, contributing to more informed and consumer-centric formulation processes.
+
 # Selected Experience
 <!--## 📜 Reimplementing and Reproducing Papers (Ongoing)
 
@@ -42,20 +60,3 @@ With my teammates from INSA, we participated in the contest AIPau. The topic cho
 
 Two intensive weekend days were incredibly rewarding. Even that we didn't reach the final (we placed **2nd in our topic**), we learned many things - not only how to 🔍 tackle on the real problem from scratch but also how to manage the different tasks and team work 🤝.
 
-# Professional Experience
-
-## 💼 Apprentice in Data Science at Pierre Fabre Dermo-Cosmetics 
-
-As part of my training, I completed a 2.5-year apprenticeship in Data Science at Pierre Fabre Dermo-Cosmetics. This experience was incredibly enriching, offering continuous opportunities to grow both technically and professionally.
-
-During the final 6 months, I led work on the OptiSen Project 🔬 — focusing on the prediction of consumer preferences and sensory profiles of facial care products based on their chemical formulations.
-
-In this project, I applied:
-
-📈 **Predictive modeling** to map formulations to sensory profile and user appreciation
-
-🧠 **Explainable AI techniques** (e.g., SHAP, LIME) for interpretability
-
-🖥️ **User interface development** to support R&D teams in creating optimized formulations with better sensorial outcomes
-
-This project helped bridge data science and product innovation, contributing to more informed and consumer-centric formulation processes.
