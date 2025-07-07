@@ -14,7 +14,6 @@ redirect_from:
 📚 I'm currently seeking a thesis opportunity to pursue a doctorate.
 
 # Professional Experience
-
 ## 💼 Apprentice in Data Science at Pierre Fabre Dermo-Cosmetics 
 
 As part of my training, I completed a 2.5-year apprenticeship in Data Science at Pierre Fabre Dermo-Cosmetics. This experience was incredibly enriching, offering continuous opportunities to grow both technically and professionally.
@@ -50,7 +49,6 @@ Project Idea:
 
 🔧 Tools: Python,TensorFlow, SHAP, mixOmics, TCGA datasets (via UCSC Xena)
 -->
-
 ## 🧠 AIPau 2024 - Topic: Regconition and Classification Tables from PDF 
 
 With my teammates from INSA, we participated in the contest AIPau. The topic chosen was an interesting problem that we can apply our skills combining:
