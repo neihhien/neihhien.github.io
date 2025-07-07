@@ -31,8 +31,6 @@ Project Idea:
 
 - Use SHAP or Integrated Gradients for feature-level explanation.
 
-<!-- Add a small dashboard to let users explore per-sample interpretability. -->
-
 🔧 Tools: Python,TensorFlow, SHAP, mixOmics, TCGA datasets (via UCSC Xena)
 ---!>
 
